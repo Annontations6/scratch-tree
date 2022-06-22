@@ -29,5 +29,5 @@ export {
     remixProject,
     setFullScreen,
     setPlayer,
-    totallyNormalStrings
+    wtotallyNormalStrings
 };
